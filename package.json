@@ -1,0 +1,14 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Make Youtube channel and uploading",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Kim Beom Yeop",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
